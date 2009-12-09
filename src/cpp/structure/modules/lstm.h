@@ -95,3 +95,4 @@ arac::common::Buffer& LstmLayer::state_error()
 
 
 #endif
+

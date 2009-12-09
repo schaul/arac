@@ -66,3 +66,4 @@ class LinearConnection : public Connection, public Parametrized
 
 
 #endif
+

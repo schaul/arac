@@ -57,3 +57,4 @@ inline MultiplicationLayer::MultiplicationLayer(int size) :
 
 #endif
 
+

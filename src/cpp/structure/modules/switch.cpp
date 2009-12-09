@@ -46,3 +46,4 @@ SwitchLayer::_backward()
         inerror_p[i] -= sigmoidprime(input_p[i]) * outerror_p[i + size];
     }
 }
+

@@ -182,3 +182,4 @@ SequentialBackprop::process_sample(Sequence input, Sequence target,
         i -= 1;
     }
 }
+

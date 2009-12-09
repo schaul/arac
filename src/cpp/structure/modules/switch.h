@@ -56,3 +56,4 @@ inline SwitchLayer::SwitchLayer(int size) :
 
 
 #endif
+

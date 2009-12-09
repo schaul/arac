@@ -404,3 +404,4 @@ class SequentialBackprop : public Backprop<Sequence, Sequence>
 }
 
 #endif
+

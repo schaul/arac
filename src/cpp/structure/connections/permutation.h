@@ -88,3 +88,4 @@ PermutationConnection::set_permutation(std::vector<int> permutation)
 
 
 #endif
+

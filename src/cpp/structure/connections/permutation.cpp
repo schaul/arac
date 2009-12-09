@@ -79,3 +79,4 @@ PermutationConnection::backward_process(double* sink_p, const double* source_p)
         sink_p[i] += source_p[*intiter];
     }
 }
+

@@ -62,3 +62,4 @@ class ConvolveConnection : public Connection, public Parametrized
 
 
 #endif
+

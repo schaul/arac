@@ -99,3 +99,4 @@ void Buffer::free_memory()
     _content.clear();
     _contmemory = true;
 }
+

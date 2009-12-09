@@ -123,3 +123,4 @@ StepDescender::set_momentum(const double value)
 
 
 #endif
+

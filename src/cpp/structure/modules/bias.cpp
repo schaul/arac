@@ -19,3 +19,4 @@ Bias::Bias() :
 Bias::~Bias()
 {
 }
+

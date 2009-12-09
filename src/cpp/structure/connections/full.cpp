@@ -131,3 +131,4 @@ void FullConnection::backward_process(double* sink_p, const double* source_p)
                get_derivatives(),
                indim);
 }
+

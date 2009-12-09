@@ -61,3 +61,4 @@ class OutConvolveConnection : public Connection, public Parametrized
 
 
 #endif
+

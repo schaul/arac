@@ -61,3 +61,4 @@ inline CosineLayer::CosineLayer(int size) :
 
 
 #endif
+

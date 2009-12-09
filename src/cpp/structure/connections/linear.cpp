@@ -91,3 +91,4 @@ void LinearConnection::backward_process(double* sink_p, const double* source_p)
         derivs_p[i] += source_p[i] * input_p[i];
     }
 }
+

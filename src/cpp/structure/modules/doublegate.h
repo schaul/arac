@@ -57,3 +57,4 @@ inline DoubleGateLayer::DoubleGateLayer(int size) :
 
 
 #endif
+

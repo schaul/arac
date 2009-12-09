@@ -54,3 +54,4 @@ DoubleGateLayer::_backward()
         inerror_p[i + size] += (1 - sigmoid(input_p[i])) * outerror_p[i + size];
     }
 }
+

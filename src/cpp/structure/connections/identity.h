@@ -56,3 +56,4 @@ class IdentityConnection : public Connection
 
 
 #endif
+

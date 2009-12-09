@@ -24,3 +24,4 @@ typedef std::vector<double*> DoublePtrVec;
 
 
 #endif
+

@@ -169,3 +169,4 @@ LstmLayer::_backward()
     retrieve_internal_inerror();
     retrieve_internal_state_error();
 }
+

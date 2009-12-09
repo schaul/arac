@@ -6,6 +6,7 @@ a.out
 *.so
 *.swp
 .cproject
+.project
 .dist
 .DS_Store
 .project

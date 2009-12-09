@@ -354,3 +354,4 @@ gradient_check(BaseNetwork& network, bool verbose)
 
 
 } } // Namespace
+

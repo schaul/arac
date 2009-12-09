@@ -402,3 +402,4 @@ MdlstmLayer::_backward()
         inerror_p[i] = _input_state_error_p[j];
     }
 }
+

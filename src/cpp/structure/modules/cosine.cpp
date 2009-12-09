@@ -85,3 +85,4 @@ CosineLayer::expand()
     Module::expand();
 }
     
+

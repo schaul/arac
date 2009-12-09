@@ -32,3 +32,4 @@ BlockPermutationConnection::~BlockPermutationConnection()
 {
     
 }
+
