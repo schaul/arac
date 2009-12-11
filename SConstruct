@@ -41,8 +41,8 @@ library_globs = ['src/cpp/*.cpp',
 lib = libenv.SharedLibrary(libname, sum([Glob(i) for i in library_globs], []))
 
 # Then compile the tests.
-testenv = Environment(LIBS=['arac', 'gtest'], CPPPATH=CPPPATH, LIBPATH=LIBPATH)
-test = testenv.Program('test-arac', Glob('src/cpp/tests/*.cpp'))
+#testenv = Environment(LIBS=['arac', 'gtest'], CPPPATH=CPPPATH, LIBPATH=LIBPATH)
+#test = testenv.Program('test-arac', Glob('src/cpp/tests/*.cpp'))
 
 
 swigenv = Environment(SWIGFLAGS=['-python', '-c++', '-outdir', 'src/python/arac'],
@@ -58,6 +58,6 @@ swig = swigenv.LoadableModule('cppbridge',
                              ['src/swig/cppbridge.i'])
 
 # Declare some dependencies.
-Depends(test, lib)
-Depends(swig, test)
+#Depends(test, lib)
+#Depends(swig, test)
 
